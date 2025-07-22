@@ -42,8 +42,16 @@ page = ["html", "markdown", "plaintext", "asciidoc"]
 
 # Add all translated languages here.
 [Languages]
+[Languages.af]
+languageName = "Afrikaans"
+languageCode = "af"
+
 [Languages.am]
 languageName = "አማርኛ"
+languageCode = "am"
+
+[Languages.am]
+languageName = "Amharic"
 languageCode = "am"
 
 [Languages.ar]
@@ -100,9 +108,17 @@ languageCode = "gu"
 languageName = "हिंदी"
 languageCode = "hi"
 
+[Languages.rw]
+languageName = "Kinyarwanda"
+languageCode = "rw"
+
 [Languages.hu]
 languageName = "Magyar"
 languageCode = "hu"
+
+[Languages.ig]
+languageName = "Igbo"
+languageCode = "ig"
 
 [Languages.id]
 languageName = "Indonesian"
@@ -198,6 +214,14 @@ languageName = "فارسی"
 languageCode = "fa-IR"
 writingDirection = "rtl"
 
+[Languages.sn]
+languageName = "Shona"
+languageCode = "sn"
+
+[Languages.st]
+languageName = "Sotho"
+languageCode = "st"
+
 [Languages.sw]
 languageName = "Swahili"
 languageCode = "sw"
@@ -209,3 +233,11 @@ languageCode = "glg"
 [Languages.vi]
 languageName = "Vietnamese"
 languageCode = "vi"
+
+[Languages.yo]
+languageName = "Yoruba"
+languageCode = "yo"
+
+[Languages.zu]
+languageName = "Zulu"
+languageCode = "zu"
